@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>我的书架</title>
+      <link href="/hexo-blog/2020/11/25/bookshelf/"/>
+      <url>/hexo-blog/2020/11/25/bookshelf/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> book </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> book </tag>
+            
+            <tag> list </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/hexo-blog/2020/11/25/hello-world/"/>
       <url>/hexo-blog/2020/11/25/hello-world/</url>
